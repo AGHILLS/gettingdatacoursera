@@ -4,6 +4,7 @@ author: "Alan Hills"
 date: "20 June 2015"
 output: html_document
 ---
+This script takes a set of untidy data from the UCI HAR dataset and returns a processed data set, averaging the measurements of selected fields by both subject and activity.
 
 This is a list of files required to run the script:
 
